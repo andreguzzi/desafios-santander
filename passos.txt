@@ -1,0 +1,9 @@
+1º criar repositorio
+2º clonar repositorio para pasta no pc
+3º abrir pasta e criar um arquivo em txt
+4º inserir informações no arquivo e salvar
+5º git status (para ver se tem alguma alteração, em vermelho)
+5º git add . ( para adicionar o arquivo ao repositorio)
+5º git status (para ver se tem alguma alteração, em verde)
+6º git commit -m ("informações sobre trabalho com git")
+7º git push origin main (para subir as alterações do repositorio local para o git)
